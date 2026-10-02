@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Phone</string>
+    <string name="accessibility_description">Allows Claude to read screen content and interact with apps on your behalf.</string>
+    <string name="accessibility_summary">Screen reader and interaction for Claude AI agent</string>
+    <string name="notification_channel_agent">My Phone</string>
+    <string name="notification_channel_alerts">My Phone Alerts</string>
+    <string name="foreground_notification_title">My Phone Running</string>
+    <string name="foreground_notification_text">Listening and ready</string>
+</resources>
